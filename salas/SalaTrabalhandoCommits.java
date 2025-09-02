@@ -21,7 +21,9 @@ public class SalaTrabalhandoCommits extends Sala{
                
                 Exemplo:
                   git add index.html
-                  git add . # adiciona tudo
+                  git add . 
+                  
+                  Observação: O . (ponto) adiciona tudo
                  
                 ____________________________________________________
                 

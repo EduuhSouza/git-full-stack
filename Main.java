@@ -25,8 +25,8 @@ public class Main {
             System.out.println("___________ Hub de informações sobre Git ___________");
             System.out.println("1 - " + sala1.getNome());
             System.out.println("2 - " + sala2.getNome());
-//            System.out.println("3 - " + sala1.getNome());
-//            System.out.println("4 - " + sala1.getNome());
+//            System.out.println("3 - " + sala3.getNome());
+//            System.out.println("4 - " + sala4.getNome());
             System.out.println("0 - Sair");
 
             System.out.println("Escolha uma sala para saber mais: ");
@@ -37,7 +37,6 @@ public class Main {
                 case 2 -> visitante.explorarSala(sala2);
                 case 0 -> System.out.println("Obrigado por explorar a sala");
                 default -> System.out.println("Opção inválida");
-
             }
 
         } while (opcao != 0);

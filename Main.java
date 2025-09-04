@@ -28,7 +28,7 @@ public class Main {
             System.out.println("2 - " + sala2.getNome());
             System.out.println("3 - " + sala3.getNome());
             System.out.println("4 - " + sala4.getNome());
-            System.out.println("4 - " + sala5.getNome());
+            System.out.println("5 - " + sala5.getNome());
             System.out.println("0 - Sair");
 
             System.out.println("Escolha uma sala para saber mais: ");

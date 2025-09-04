@@ -22,8 +22,8 @@ public class SalaComandoBasicos extends Sala {
                
                 Exemplo:
                   git init
-                  
-                ____________________________________________________
+             
+                ___________________________________________________
                   2. git clone (url)
                 
                   Descrição: Cria uma cópia local de um repositório remoto.

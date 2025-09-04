@@ -45,5 +45,7 @@ public class SalaTrabalhandoCommits extends Sala{
                   git commit --amend
                   
                 """;
+
+        System.out.println(codigo);
     }
 }
